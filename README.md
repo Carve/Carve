@@ -7,6 +7,8 @@
 For over 15 years I have helped to create amazing projects for clients looking to achieve unprecedented and remarkable websites that no one has yet to see! With the ability to scale your design to any device without cutting corners. Working with cutting edge technology and the best practices available I build websites with security and performance in mind and my methodology is proven in every industry thus far.
 
 
+
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Carve&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 <!--
 **Carve/Carve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
