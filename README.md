@@ -1,7 +1,6 @@
 ## CJ "Carve" Ratliff
 
 [![portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=BookStack&logoColor=white)](http://cjratliff.net)
-[![github](https://img.shields.io/badge/GitHub-4c4c4c?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Carve)
 [![linkedin](https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cjratliff/)
 [![devto](https://img.shields.io/badge/DevTo-000000?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/carve)
 
